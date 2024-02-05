@@ -1,4 +1,4 @@
-## Estudante de programação em constante evolução, dedicado a aprimorar habilidades e explorar o fascinante universo do desenvolvimento de software!! 🚀 
+## Estudante de programação em constante evolução, dedicado a aprimorar habilidades e explorar o fascinante universo da programação!! 🚀 
 
 I always comeback.
 
