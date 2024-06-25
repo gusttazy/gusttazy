@@ -3,9 +3,6 @@
 👩🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas<br/>
 📚 Adquirindo conhecimento em novas tecnologias<br/>
 
-<!-- GitHub stats de https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=gusttazy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 # 💻 Conhecimentos e Tecnologias 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
