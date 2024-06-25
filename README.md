@@ -2,14 +2,10 @@
 
  🎓  Estudante de **Programação** apaixonado por tecnologia e inovação. Estou constantemente em busca de aprender novas habilidades e me aprimorar na criação de soluções eficientes e criativas. 🚀
 
-<br/>
-
 # 🎯 Objetivos
 - 🔭 Aprofundar conhecimentos em desenvolvimento web full-stack.
 - 🌱 Aprender mais sobre DevOps e metodologias ágeis.
 - 👯 Contribuir para projetos open-source e ajudar a comunidade de desenvolvimento.
-
-<br/>
 
 # 💻 Tecnologias 
 
@@ -26,12 +22,8 @@
 ![React Badge](https://img.shields.io/badge/React-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)
 
-<br/>
-
 # 📫 Contato
 - 📧 Email: [gustavorodri22profissional@gmail.com](mailto:gustavorodri22profissional@gmail.com)
-
-<br/>
 
 # 🧑‍🤝‍🧑 Conecte-se comigo!
 Vamos colaborar e crescer juntos na jornada da programação! 💪
@@ -41,11 +33,8 @@ Vamos colaborar e crescer juntos na jornada da programação! 💪
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=gusttazy&color=blue&style=flat-square)
 
-
 # ✨ Repositórios em destaque
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gusttazy&repo=itaMarketplace)](https://github.com/gusttazy/itaMarketplace)
-
-<br/>
 
 # 🎉 Agradecimentos
 Agradeço por visitar meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato. Vamos juntos transformar ideias em código! 💻✨
