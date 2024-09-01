@@ -4,16 +4,16 @@
 
 # 💻 Tecnologias 
 
-![HTML Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 <br/>
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![React Badge](https://img.shields.io/badge/React-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 <br/>
-![Node.js Badge](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=node.js&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 <br/>
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
@@ -27,7 +27,7 @@
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)
 
 # 📫 Contato
-- 📧 Email: [gustavorodri22profissional@gmail.com](mailto:gustavorodri22profissional@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gustavorodri22profissional@gmail.com) [gustavorodri22profissional@gmail.com]
 
 # 🧑‍🤝‍🧑 Conecte-se comigo!
 Vamos colaborar e crescer juntos na jornada da programação! 💪
