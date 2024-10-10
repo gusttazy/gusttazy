@@ -26,7 +26,6 @@
 # 🧑‍🤝‍🧑 Conecte-se comigo!
 Vamos colaborar e crescer juntos na jornada da programação! 💪
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusttazy&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusttazy&layout=compact&theme=radical)
 
 # 🎉 Agradecimentos
