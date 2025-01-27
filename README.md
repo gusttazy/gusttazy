@@ -1,10 +1,8 @@
 <div align="center">
 
-[![WPbj0Dn.jpg](https://i.postimg.cc/8krHCXyS/WPbj0Dn.jpg)](https://postimg.cc/kDq81s31)
-
-# 💻 **Front-End Developer**  
-**Transforming ideas into exceptional digital experiences.**  
-**Code. Design. Innovate. Repeat.**
+# 👋 Hello, I'm Gustavo !
+### 💻 **Front-End Developer**  
+Transforming ideas into exceptional digital experiences. 
 
 ## 🚀 Main Skills  
 ### Crafting high-performance, scalable, and modern applications with:  
