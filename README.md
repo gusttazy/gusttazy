@@ -55,22 +55,10 @@ const gustavo = {
 
 <div align="center">
   <a href="https://github.com/gusttazy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttazy&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttazy&layout=compact&langs_count=7&theme=radical" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/gusttazy">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gusttazy&theme=radical&hide_border=true" />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/gusttazy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gusttazy&theme=radical&row=1&column=6&margin-w=15" />
-  </a>
-</div>
 
 ## 🎮 Quando não estou codando...
 
