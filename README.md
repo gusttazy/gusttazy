@@ -51,15 +51,6 @@ const gustavo = {
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </div>
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <a href="https://github.com/gusttazy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gusttazy&theme=radical&hide_border=true" />
-  </a>
-</div>
-
-
 ## 🎮 Quando não estou codando...
 
 - 🎮 Estou jogando
