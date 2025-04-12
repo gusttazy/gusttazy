@@ -57,40 +57,15 @@ const gustavo = {
 
 ---
 
-## 🌱 Em constante evolução
-
-- 🧠 Sempre aprendendo novas ferramentas  
-- 🔍 Explorando boas práticas de arquitetura de software  
-- 🤝 Abert@ a colaborações e projetos open source  
-- 🎯 Objetivo: Criar soluções impactantes com foco em experiência do usuário  
-
----
-
-## 🎮 Quando não estou codando...
-
-- 👾 Jogando algum game competitivo ou narrativo  
-- 🎧 Descobrindo playlists novas  
-- ✈️ Pensando em projetos criativos ou viagens  
-- 📚 Estudando sobre design, produto e inovação  
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gusttazy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttazy&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
+<p/>
+  
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gusttazy&color=blueviolet&style=flat-square&label=Visitantes+do+Perfil" alt="Contador de Visitas" />
 </p>
-
-<h3 align="center">
-  🚀 "Transformando linhas de código em experiências digitais excepcionais"
-</h3>
