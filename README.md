@@ -59,7 +59,7 @@ const gustavo = {
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center"">
+<p align="center" style="display: flex; margin: 0; padding: 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=gusttazy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" width="500" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttazy&layout=compact&theme=dracula" alt="Top Languages" width="500" height="200" />
 </p>
