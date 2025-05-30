@@ -1,16 +1,4 @@
-# 👋 Olá, eu sou o Gustavo!
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Especialista+em+Front-end+e+Mobile;Foco+em+UI%2FUX+eficiente;Amante+de+tecnologia+e+design" alt="Typing SVG" />
-</p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gustaguiar/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/gusttazy"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:gustavorodri22profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
----
+<h1 align="center">👋 Olá, eu sou o Gustavo!</h1>
 
 ## 🧰 Tech Stack
 
@@ -31,8 +19,6 @@
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -40,8 +26,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttazy&layout=compact&theme=dracula&hide_progress=true" width="49%" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gusttazy&color=blueviolet&style=flat-square&label=Visitantes+do+Perfil" alt="Profile views" />
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustaguiar/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/gusttazy"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:gustavorodri22profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
