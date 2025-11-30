@@ -25,11 +25,12 @@ Sempre em busca de novos aprendizados e soluções inovadoras.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Summary Cards
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttazy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttazy&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusttazy&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gusttazy&theme=radical" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gusttazy&theme=radical" alt="Most commit language" />
 </div>
 
 ---
