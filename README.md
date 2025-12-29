@@ -18,12 +18,10 @@
 ## ⚙️ Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000"/>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000"/>
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=radixui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"/>
 </p>
 
