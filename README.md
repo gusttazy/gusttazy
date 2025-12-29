@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdf8&size=32&center=true&vCenter=true&width=1000&lines=Opa!+Eu+sou+o+Gustavo+🚀;Desenvolvedor+de+Software;Web,+Mobile+e+Back-end;Sempre+aprendendo+e+evoluindo+:%29)](https://git.io/typing-svg)
-
 ### 🧠 Languages:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
